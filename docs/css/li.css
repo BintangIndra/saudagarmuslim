@@ -22,15 +22,8 @@ h1{
 }
 .btn{
 	background-color:black;
-	width:7.5vw;height:3vw;
-	font-size:1vw;margin:1px;
-	padding:0.5vw;text-align:center;
+	width:120px;height:40px;
+	font-size:15px;margin:1px;
+	padding:;text-align:center;
 	color:white;
-}
-li{
-	width:5vw;height:2.5vw;
-	padding:1vw;
-}
-li a{
-	font-size:1.5vw;
 }
